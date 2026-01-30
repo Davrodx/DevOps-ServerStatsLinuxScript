@@ -1,3 +1,5 @@
+Project URL: https://roadmap.sh/projects/server-stats
+
 # Server Performance Stats (server-stats.sh)
 
 A lightweight Bash script that prints basic Linux server performance statistics in the terminal.
